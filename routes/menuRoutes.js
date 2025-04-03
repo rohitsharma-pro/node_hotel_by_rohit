@@ -109,4 +109,6 @@ router.delete('/:id',async (req,res)=>{
     }
 } )
 
+
+//-------for only tranning purpose---------------
 module.exports=router;
